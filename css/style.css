@@ -1,0 +1,29 @@
+.title-row>span{
+    color: #8fc04e;
+    background-color: #f3f8ec;
+}
+.title-row h3>span{
+    color: #8fc04e ;
+}
+.why-card h3{
+    color: #8fc04e;
+}
+.why-card p{
+    color: #9b9b9b;
+}
+.why-card:hover {
+    background-color:#8fc04e;
+    transition: all 0.5s ease;
+    transform: translateY(-5%);
+
+    overflow: hidden;
+}
+.why-card:hover h3{
+    color: #fff;
+}
+.why-card:hover h4{
+    color: #fff;
+}
+.why-card:hover p{
+    color: #fff;
+}
